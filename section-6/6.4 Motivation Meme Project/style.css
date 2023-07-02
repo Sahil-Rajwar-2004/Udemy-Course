@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.my-div{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
