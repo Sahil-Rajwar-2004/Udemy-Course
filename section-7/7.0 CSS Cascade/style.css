@@ -1,0 +1,22 @@
+#big-box{
+    background-color: purple;
+    padding: 10px;
+}
+
+#sub-box{
+    background-color: blue;
+    padding: 10px;
+}
+
+.small-box{
+    background-color: red;
+    padding: 10px;
+}
+
+.title{
+    color: yellow;
+}
+
+.content{
+    color: white;
+}
